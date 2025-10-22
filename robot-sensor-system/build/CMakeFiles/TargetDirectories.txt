@@ -1,0 +1,3 @@
+/home/salma_adel/university-management-system/robot-sensor-system/build/CMakeFiles/robot_sensor_system.dir
+/home/salma_adel/university-management-system/robot-sensor-system/build/CMakeFiles/edit_cache.dir
+/home/salma_adel/university-management-system/robot-sensor-system/build/CMakeFiles/rebuild_cache.dir
